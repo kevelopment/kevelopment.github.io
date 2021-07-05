@@ -1,4 +1,3 @@
+# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Allow: /
-Sitemap: https://www.kevelopment.dev/sitemap.xml
-Host: https://www.kevelopment.dev
+Disallow:
