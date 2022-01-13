@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.kevelopment.dev/sitemap.xml
+Sitemap: https://www.kevelopment.dev/sitemap/sitemap-index.xml
 Host: https://www.kevelopment.dev
